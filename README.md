@@ -7,3 +7,4 @@
 * Airflow orchastrated ETL Pipeline with Postrgres as the database
 * DbGate for data analytics
 * Metabase for business intelligence
+
