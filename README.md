@@ -11,4 +11,5 @@
 
 ## Example cases
 * Feeding and updating data for model training
+* AI triggers and tracking
 * Scraping compute and relevant hardware prices
