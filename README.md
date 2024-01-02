@@ -9,5 +9,6 @@
 * Metabase for business intelligence
 * Formatting for historical statistics and push actions
 
-## Example case
+## Example cases
+* Feeding and updating data for model training
 * Scraping compute and relevant hardware prices
